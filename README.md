@@ -5,7 +5,7 @@ End-to-end business data analysis on 9,994 retail transactions
 identifying revenue drivers, profit leakage and customer trends.
 
 ## 🔗 Live Tableau Dashboard
-[Click here to view interactive dashboard](YOUR TABLEAU LINK HERE)
+https://public.tableau.com/app/profile/sejal.rane7808/viz/SuperstoreSalesDashboard_17782369014800/SuperstoreSalesDashboard
 
 ## Tools Used
 - Python (Pandas, Matplotlib, Seaborn)
